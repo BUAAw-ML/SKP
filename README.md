@@ -12,7 +12,7 @@ pip install -e .
 
 ##  Improve External Knowledge Utilization
 
-The main idea focuses on making better use of external knowledge to instruct MLLM to output more accurate generation. The detail can refer to [`lavis\models\blip2_models\blip2_vicuna_instruct_okvqa.py`](lavis\models\blip2_models\blip2_vicuna_instruct_okvqa.py) 
+The main idea focuses on making better use of external knowledge to instruct MLLM to output more accurate generation. The detail can refer to [`lavis/models/blip2_models/blip2_vicuna_instruct_okvqa.py`](lavis/models/blip2_models/blip2_vicuna_instruct_okvqa.py) 
 
 ### Quick Start
 
