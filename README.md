@@ -22,7 +22,8 @@ bash run_scripts/blip2/train/train_okvqa.sh
 
 ## Notes
 
-This publication version was made in a rush due to intensive workload that the author currently have. We will add follow-up patches to make codes more readible and ensure reproducibility. (of course, the speed depends on the number of people who are interested in using this framework.)
+### This publication version was made in a rush due to intensive workload that the author currently have. We will add follow-up patches to make codes more readible and ensure reproducibility. (of course, the speed depends on the number of people who are interested in using this framework.)
+### Download address of instruct_blip_vicuna7b_trimmed.pth： https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/InstructBLIP/instruct_blip_vicuna7b_trimmed.pth
 
 
 
